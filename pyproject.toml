@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "example_package_20laique23"
-version = "2023.0.0.1"
+version = "2023.0.0.2"
 authors = [{name="Laique Djeutchouang", email="ldjeutchouang@aims.ac.tz"}, ]
 description = "A small example of packaging Python Projects"
 readme = "README.md"
