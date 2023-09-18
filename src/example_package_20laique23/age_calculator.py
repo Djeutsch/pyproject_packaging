@@ -34,8 +34,8 @@ class AgeCalculator:
     
     def get_birth_details(self):
         # Calculate age and day of the week
-        age = calculator.calculate_age()
-        day_name = calculator.day_of_week()
+        age = self.calculate_age()
+        day_name = self.day_of_week()
 
         print(f"You are {age} years old and you were born on a {day_name}.\n\n")
 
