@@ -1,6 +1,9 @@
 from datetime import datetime
 
 class AgeCalculator:
+    """
+    This program calculates a person's age based on their date of birth and return the day of the week they were born. 
+    """
     def __init__(self, date_of_birth):
         self.date_of_birth = date_of_birth
 
